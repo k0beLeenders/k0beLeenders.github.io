@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.eef1677b.css",
-    "main.js": "./static/js/main.e9e5c2f9.js",
-    "static/js/261.c6f0d346.chunk.js": "./static/js/261.c6f0d346.chunk.js",
-    "static/js/507.7b989621.chunk.js": "./static/js/507.7b989621.chunk.js",
-    "static/js/34.09d0be73.chunk.js": "./static/js/34.09d0be73.chunk.js",
+    "main.css": "./static/css/main.64ac7739.css",
+    "main.js": "./static/js/main.3a7c4107.js",
+    "static/js/261.c6bf1f67.chunk.js": "./static/js/261.c6bf1f67.chunk.js",
+    "static/js/507.0c180f27.chunk.js": "./static/js/507.0c180f27.chunk.js",
+    "static/js/745.e51d0f19.chunk.js": "./static/js/745.e51d0f19.chunk.js",
     "static/media/solanaLogo.png": "./static/media/solanaLogo.a6d3dfb5b87a4f3a7af9.png",
     "static/media/magic_eden_logo.png": "./static/media/magic_eden_logo.87fb03166535e6d3e3bf.png",
     "static/media/builton.svg": "./static/media/builton.0a3b997a13377677356b.svg",
@@ -15,7 +15,7 @@
     "static/media/menu.svg": "./static/media/menu.fe2e4f6e304ba1158b1965ff26214ea0.svg"
   },
   "entrypoints": [
-    "static/css/main.eef1677b.css",
-    "static/js/main.e9e5c2f9.js"
+    "static/css/main.64ac7739.css",
+    "static/js/main.3a7c4107.js"
   ]
 }
